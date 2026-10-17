@@ -12,7 +12,7 @@ import city from './assets/profile-city.jpeg';
 
 const github='https://github.com/Sujeetpaal21';
 const linkedin='https://www.linkedin.com/in/sujeet-kumar-pal-979b9b222/';
-const email='mailto:sujeet.j4170@cgcuniversity.in';
+const email='mailto:sujeetpal0125@gmail.com';
 
 const projects=[
  {title:'Simple Chat',desc:'Real-time web chat application with an HTML/CSS/JavaScript frontend and Node.js + Socket.io backend.',tech:['JavaScript','Node.js','Socket.io'],url:'https://github.com/Sujeetpaal21/Simple-Chat'},
